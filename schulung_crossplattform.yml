@@ -5,9 +5,9 @@ dependencies:
   - scikit-learn
   - transformers
   - pandas
-  - numpy
   - pytorch
   - nltk
-  - scipy
   - matplotlib
-  - python=3.11
+  - numpy
+  - scipy
+  - python=3.9
