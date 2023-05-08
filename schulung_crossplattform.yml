@@ -1,0 +1,13 @@
+name: schulung
+channels:
+  - defaults
+dependencies:
+  - scikit-learn
+  - transformers
+  - pandas
+  - numpy
+  - pytorch
+  - nltk
+  - scipy
+  - matplotlib
+  - python=3.11
