@@ -12,9 +12,9 @@ Anaconda is a Python distribution, package and environment manager, and data sci
 Clone this repository with `git clone https://github.com/aileen-reichelt/epc-schulung.git` or, using ssh, `git clone git@github.com:aileen-reichelt/epc-schulung.git` to a location of your choice.
 
 ### Python and Python packages
-Python and its packages we desire come with Anaconda. Anaconda manages virtual environments, which can be exported and imported. Create an Anconda environment with all dependencies (including Python) necessary for this project from the `.yml` file provided in this repository. To do so:
+Python and its desired packages are included with Anaconda (or rather, Anaconda can install them easily while resolving for compatibility issues). Anaconda manages virtual environments, which can be exported and imported. Create an Anconda environment with all dependencies (including Python) necessary for this project from the `.yml` file provided in this repository. To do so:
 
-**On Windows** start an "Anaconda Prompt" window, **on Linux**, open a terminal window for the following command.
+**On Windows** start an "Anaconda Prompt" window (after installing Anaconda), **on Linux**, open a terminal window for the following command.
 
 ```bash
 cd epc-schulung  # go to project repo
