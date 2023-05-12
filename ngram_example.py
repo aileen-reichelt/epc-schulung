@@ -55,6 +55,5 @@ def predict_commas(sentence: str) -> list:
             output.insert(i+1, ",")
     return output
 
-prediction = predict_commas("Franz Taxis und Bayern sind verwahlost weil Franz in Bayern ist.")
+prediction = predict_commas("Franz Taxis und Bayern sind verwahrlost weil Franz in Bayern ist.")
 print(" ".join(prediction))
-
