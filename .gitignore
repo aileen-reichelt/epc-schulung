@@ -3,6 +3,7 @@ schulung.yml
 EPC_sentences_unique.txt
 sepp_nlg_2021_data_v5
 crf.model
+epc-schulung
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
